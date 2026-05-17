@@ -1,7 +1,7 @@
 # Niramaya: Disease Outbreak Alert & Health Information System
 
 ## Overview
-Niramaya is a comprehensive health information and disease outbreak alert system designed for rapid, multilingual, and accessible communication. It integrates a chatbot engine, messaging gateways, admin dashboard, integration with government health APIs, and robust data storage, all deployable on modern cloud infrastructure.
+Niramaya is a comprehensive AI driven health information and disease outbreak alert system designed for rapid, multilingual, and accessible communication. It integrates a chatbot engine, messaging gateways, admin dashboard, integration with government health APIs, and robust data storage, all deployable on modern cloud infrastructure.
 
 ## System Architecture
 
